@@ -1,4 +1,3 @@
 # hello-world
-repositoryyy
 
-HELLO WORLD!
+HELLO WORLD! :)
